@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65b7cbd0ae9309bb48065c1b"
+  },
+  "name": "Aakash",
+  "email": "ak@gmail.com",
+  "password": "123"
+},
+{
+  "_id": {
+    "$oid": "65b88edaae9309bb48065c22"
+  },
+  "name": "Deepa",
+  "email": "deepa@gmail.com",
+  "password": "123"
+},
+{
+  "_id": {
+    "$oid": "65b89afeae9309bb48065c26"
+  },
+  "name": "Praveen",
+  "email": "praveen@gmail.com",
+  "password": "123",
+  "ph_no": "7622211111",
+  "address": "Chennai"
+},
+{
+  "_id": {
+    "$oid": "65c8bcb263640536a80c3bb0"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "admin",
+  "ph_no": "7622211111",
+  "address": "thandalam saveetha college"
+}]

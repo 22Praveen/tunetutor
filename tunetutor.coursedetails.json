@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "65bf695916212c4a0d00b5fe"
+  },
+  "instrument": "Piano",
+  "c_title": "Harmony Keys: Mastering the Piano",
+  "t_name": "Sujith",
+  "last_update": "2024-02-04",
+  "c_fee": "750",
+  "membership": "Paid",
+  "c_img_path": "../template/courseimage/",
+  "c_img_filename": "piano.jpg",
+  "c_outline": "Introduction to Piano Playing, Basic Music Theory for Pianists, Fundamental Techniques, Exploring Piano Genres, Advanced Piano Repertoire, Music Composition and Arrangement, Performance Mastery, Piano Maintenance and Care, Recording and Producing Piano Music, Building a Repertoire",
+  "objective": "Course is designed to equip students with a robust foundation in piano playing, covering diverse genres and advancing through complex techniques. Our goal is to nurture creativity, instill confidence in live performances, and provide insights into piano maintenance. Beyond traditional skills, the course encourages music composition, arranges digital production, and builds a personalized repertoire. By the course's end, participants will not only be skilled pianists but also confident performers, creative composers, and enthusiasts contributing to the world of piano music.",
+  "eligibility": "This course is open to individuals of all skill levels, from beginners with little or no prior piano experience to intermediate players seeking to refine their techniques. Whether you're a complete novice or have some basic knowledge, our program is structured to accommodate diverse learning needs. The only prerequisites are a passion for music, dedication to practice, and a desire to embark on a fulfilling journey into the world of piano playing. Join us, and let the melody unfold through your fingertips, regardless of your starting point on the musical spectrum.",
+  "videos": {
+    "Introduction to Piano Playing": "65c3549778138_IMG_1652.MOV",
+    "Basic Music Theory for Pianists": "65c354977875b_IMG_1653.MOV",
+    "Fundamental Techniques": "65c3549778cfd_IMG_1654.MOV",
+    "Exploring Piano Genres": "65c3549781151_IMG_1655.MOV",
+    "Advanced Piano Repertoire": "65c35497a1e81_IMG_1651.MOV",
+    "Music Composition and Arrangement": "65c35497a2826_IMG_1652.MOV",
+    "Performance Mastery": "65c35497a320f_IMG_1653.MOV",
+    "Piano Maintenance and Care": "65c35497a914c_IMG_1654.MOV",
+    "Recording and Producing Piano Music": "65c35497a971b_IMG_1652.MOV",
+    "Building a Repertoire": "65c35497a9f6d_IMG_1655.MOV"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c37ee5b2df84ba85047b1a"
+  },
+  "instrument": "Guitar",
+  "c_title": "Master the chords of classical Guitar",
+  "t_name": "Barath",
+  "last_update": "2024-02-07",
+  "c_fee": "750",
+  "membership": "Paid",
+  "c_img_path": "../template/courseimage/",
+  "c_img_filename": "guitar2.jpg",
+  "c_outline": "Introduction to Basic Guitar Chords, Common Chord Progressions, Barre Chords Mastery, Chord Inversions and Voicings, Advanced Chord Techniques, Understanding Chord Theory, Rhythm and Strumming Patterns, Chord Embellishments and Ornaments, Genre-Specific Chord Applications, Creating Your Own Chord Progressions",
+  "objective": "In this comprehensive Guitar Chords Course, our primary objective is to empower aspiring musicians with the essential skills and knowledge to master the art of playing chords on the guitar. Through a carefully structured curriculum, participants will embark on a musical journey starting with the basics of open chords, chord progressions, and fundamental techniques. As the course progresses, students will delve into more advanced topics such as barre chords, chord inversions, and diverse voicings. The curriculum is designed not only to enhance technical proficiency but also to foster a deep understanding of chord theory, enabling students to create and customize their chord progressions. Special emphasis will be placed on rhythm and strumming patterns, ensuring that participants not only play chords accurately but also with a rhythmic and dynamic flair. By the end of this course, students will not only have a rich repertoire of chords at their disposal but also the ability to apply this knowledge across various genres, laying a strong foundation for their musical journey.",
+  "eligibility": " This course is suitable for beginners with no prior guitar experience as well as intermediate players looking to enhance their chord-playing skills. No age restrictions or music theory background is required; a passion for learning and playing the guitar is all that's needed. Whether you're starting from scratch or seeking to refine your technique, this course welcomes individuals eager to explore the world of guitar chords and elevate their musical proficiency",
+  "videos": {
+    "Introduction to Basic Guitar Chords": "65c382147119c_v1.mp4",
+    "Common Chord Progressions": "65c3821471913_v2.mp4",
+    "Barre Chords Mastery": "65c3821471ea1_v3.mp4",
+    "Chord Inversions and Voicings": "65c3821472a96_v4.mp4",
+    "Advanced Chord Techniques": "65c382147350a_v5.mp4",
+    "Understanding Chord Theory": "65c3821473ee0_v6.mp4",
+    "Rhythm and Strumming Patterns": "65c3821474817_v5.mp4",
+    "Chord Embellishments and Ornaments": "65c3821475628_v1.mp4",
+    "Genre-Specific Chord Applications": "65c382147602e_v3.mp4",
+    "Creating Your Own Chord Progressions": "65c3821476a02_v2.mp4"
+  }
+}]
